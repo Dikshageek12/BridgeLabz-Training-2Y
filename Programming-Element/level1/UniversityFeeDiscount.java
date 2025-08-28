@@ -1,3 +1,4 @@
+package level1;
 public class UniversityFeeDiscount {
     public static void main(String[] args) {
         double fee = 125000;
